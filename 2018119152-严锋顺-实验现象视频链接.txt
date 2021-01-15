@@ -1,0 +1,15 @@
+以下是提交实验的实验现象：
+
+按键控制LED的开关：
+https://vkceyugu.cdn.bspapp.com/VKCEYUGU-imgbed/f02e9210-fb29-4162-ba34-dbe83ca7bdcb.mp4
+
+按键控制LED呼吸灯与跳闪模式转换:
+https://vkceyugu.cdn.bspapp.com/VKCEYUGU-imgbed/2cdb66d0-a44b-445b-a9d4-75d2b649d7b5.mp4
+
+PC---UART：
+https://vkceyugu.cdn.bspapp.com/VKCEYUGU-imgbed/1d04d49a-e2e7-4ac4-97b2-a19c1884da6a.mp4
+
+LCD显示屏:
+https://vkceyugu.cdn.bspapp.com/VKCEYUGU-imgbed/762c9074-c0a8-404a-a5cf-b8726de6be51.mp4
+
+
